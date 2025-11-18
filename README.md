@@ -10,7 +10,7 @@ Academically, I hold a Bachelor of Science in Computer Science and Engineering.
 
 ### <img src="./assets/frontend.png" style="width:26px; height:26px;" alt="Fronted logo"> FRONTEND
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,css,html&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,css,html&theme=light)](https://skillicons.dev)
 
 ### <img src="./assets/backend.png" style="width:26px; height:26px;" alt="Fronted logo"> BACKEND
 
