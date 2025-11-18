@@ -16,6 +16,18 @@ Academically, I hold a Bachelor of Science in Computer Science and Engineering.
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&theme=light)](https://skillicons.dev)
 
+
+### <img src="./assets/backend.png" style="width:18px; height:18px;" alt="Fronted logo"> Languages
+
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
+
+
+### <img src="./assets/backend.png" style="width:18px; height:18px;" alt="Fronted logo"> Database
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
+
+
+
 ### Published Apps
 
 #### SetEvents
