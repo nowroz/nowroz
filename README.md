@@ -8,12 +8,17 @@ Academically, I hold a Bachelor of Science in Computer Science and Engineering.
 
 ---
 
-| Stack                                                                                              | Names                                                                                                         |
+### Skillset
+
+| Stack                                                                                              | Technologies                                                                                                  |
 | :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
 | **<img src="./assets/frontend.png" style="width:18px; height:18px;" alt="Fronted logo"> Frontend** | [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,css,html&theme=light)](https://skillicons.dev) |
 | **<img src="./assets/backend.png" style="width:18px; height:18px;" alt="Fronted logo"> Backend**   | [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&theme=light)](https://skillicons.dev)           |
 | **<img src="./assets/database.png" style="width:18px; height:18px;" alt="Fronted logo"> Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)                    |
-| **<img src="./assets/language.png" style="width:18px; height:18px;" alt="Fronted logo"> Language** | [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)                         |
+
+### <img src="./assets/language.png" style="width:18px; height:18px;" alt="Fronted logo"> Language
+
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 
 ### Published Apps
 
