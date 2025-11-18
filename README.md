@@ -1,6 +1,6 @@
-# Nowroz Islam 
+# NOWROZ ISLAM
 
-**`MERN Stack Developer`**
+**`MERN STACK DEVELOPER`**
 
 I am a dedicated MERN Stack Developer with a strong passion for building intuitive, reliable, and scalable web applications. With hands-on experience in JavaScript, React, Node.js, Express.js, and MongoDB, I enjoy bringing ideas to life across both the frontend and backend. I take pride in writing clean, maintainable code and managing all my work through command-line Git and GitHub, ensuring smooth version control and a clean development workflow.
 
@@ -8,11 +8,18 @@ Academically, I hold a Bachelor of Science in Computer Science and Engineering.
 
 ---
 
-### FRONTEND
+### <img src="./assets/frontend.png" style="width:26px; height:26px;" alt="Fronted logo"> FRONTEND
 
+[![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,css,html&theme=dark)](https://skillicons.dev)
+
+### <img src="./assets/backend.png" style="width:26px; height:26px;" alt="Fronted logo"> BACKEND
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&theme=dark)](https://skillicons.dev)
 
 ### Published Apps
+
 #### SetEvents
+
 SetEvents is a reliable and user-friendly personal scheduling app designed to help users seamlessly organize their daily activities and stay on top of tasks with timely reminders. Key features include:
 
 - Create and schedule one-time or weekly recurring events.
