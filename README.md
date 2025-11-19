@@ -17,10 +17,10 @@ Academically, I hold a Bachelor of Science in Computer Science and Engineering.
 | **<img src="./assets/database.png" style="width:18px; height:18px;" alt="Fronted logo"> Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)                    |
 
 
-### <img src="./assets/language.png" style="width:18px; height:18px;" alt="Fronted logo"> Languages
+## <img src="./assets/language.png" style="width:18px; height:18px;" alt="Fronted logo"> Languages
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 
-### Tools
+## Tools
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,git,github,firebase,postman&theme=light)](https://skillicons.dev)
 
