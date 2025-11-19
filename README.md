@@ -16,19 +16,14 @@ Academically, I hold a Bachelor of Science in Computer Science and Engineering.
 | **<img src="./assets/backend.png" style="width:18px; height:18px;" alt="Fronted logo"> Backend**   | [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs&theme=light)](https://skillicons.dev)           |
 | **<img src="./assets/database.png" style="width:18px; height:18px;" alt="Fronted logo"> Database** | [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)                    |
 
-### <img src="./assets/language.png" style="width:18px; height:18px;" alt="Fronted logo"> Language
 
+### <img src="./assets/language.png" style="width:18px; height:18px;" alt="Fronted logo"> Languages
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 
-### Published Apps
+### Tools
 
-#### SetEvents
+[![My Skills](https://skillicons.dev/icons?i=neovim,git,github,firebase,postman&theme=light)](https://skillicons.dev)
 
-SetEvents is a reliable and user-friendly personal scheduling app designed to help users seamlessly organize their daily activities and stay on top of tasks with timely reminders. Key features include:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nowroz&show_icons=true&locale=en&layout=compact" alt="nowroz" /></p>
 
-- Create and schedule one-time or weekly recurring events.
-- View today's events in the **Today Tab** for daily planning.
-- Tap events to view details, and easily edit or delete them.
-- Set customizable reminders for notifications.
-- Browse events by date using the **Calendar Tab** and scroll through upcoming events.
-- Use the **Events Tab** to see all events or search for specific ones.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nowroz&" alt="nowroz" /></p>
