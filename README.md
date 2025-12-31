@@ -26,6 +26,8 @@ Academically, I hold a Bachelor of Science in Computer Science and Engineering.
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,git,github,firebase,postman&theme=light)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nowroz&show_icons=true&locale=en&layout=compact" alt="nowroz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nowroz&" alt="nowroz" /></p>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=nowroz&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&theme=fuji&color=%23ffffffFF">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=nowroz&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
+</picture>
