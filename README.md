@@ -1,6 +1,6 @@
 # Nowroz Islam
 
-**`NEXT.JS & MERN STACK DEVELOPER`**
+**`NEXT.JS DEVELOPER | MERN STACK DEVELOPER`**
 
 <img src="./assets/banner.png" style="margin-bottom: 50px;">
 
